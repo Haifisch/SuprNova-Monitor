@@ -1,0 +1,28 @@
+c:\users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\bin\Debug\SuperNova Monitor.exe.config
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\bin\Debug\SuperNova Monitor.exe
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\bin\Debug\SuperNova Monitor.pdb
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\bin\Debug\aa\SuperNova Monitor.resources.dll
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\obj\Debug\SuperNova Monitor.csprojResolveAssemblyReference.cache
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\obj\Debug\SuperNova_Monitor.Properties.Resources.resources
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\obj\Debug\SuperNova Monitor.csproj.GenerateResource.Cache
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\obj\Debug\aa\SuperNova Monitor.resources.dll
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\obj\Debug\SuperNova Monitor.exe
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\obj\Debug\SuperNova Monitor.pdb
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\obj\Debug\SuperNova_Monitor.Form1.resources
+C:\Users\haifisch\documents\visual studio 2015\Projects\SuperNova Monitor\SuperNova Monitor\obj\Debug\SuperNova_Monitor.Form1.aa.resources
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\bin\Debug\SuperNova Monitor.exe.config
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\bin\Debug\SuperNova Monitor.exe
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\bin\Debug\SuperNova Monitor.pdb
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\bin\Debug\aa\SuperNova Monitor.resources.dll
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\obj\Debug\SuperNova Monitor.csprojResolveAssemblyReference.cache
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\obj\Debug\SuperNova_Monitor.Form1.resources
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\obj\Debug\SuperNova_Monitor.Properties.Resources.resources
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\obj\Debug\SuperNova_Monitor.Form1.aa.resources
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\obj\Debug\SuperNova Monitor.csproj.GenerateResource.Cache
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\obj\Debug\aa\SuperNova Monitor.resources.dll
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\obj\Debug\SuperNova Monitor.exe
+C:\Users\haifisch\Documents\GitHub\SuprNova-Monitor\SuperNova Monitor\obj\Debug\SuperNova Monitor.pdb
